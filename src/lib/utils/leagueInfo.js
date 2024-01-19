@@ -11,7 +11,6 @@ export const homepageText = `
   <p>The new league would expand outside of Burnsville, MN and include several members from across the country. In 2018, recruiting of 8 additional members was completed and the dynasty Fantasy Factory league was born.</p>
   <p>Each year, the managers compete to win the coveted Fantasy Factory league trophy and avoid the ever-humiliating Waffle House punishment.</p>
   <p>The Fantasy Factory now enters year 7 in it's illustrious life. Although a few members have been replaced, the league remains stronger than ever due to the dedication and support from the remaining members.</p>
-  <p>While the ultimate prize is bragging rights and your name in the history books, the champion manager also walks away with $450 and the coveted trophy.</p>
 `;
 
 /*   STEP 3   */
