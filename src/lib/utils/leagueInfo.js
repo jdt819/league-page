@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2012, the Fantasy Factory began as a redraft league amongst a small group of friends from Burnsville, MN. As the years went by members came and went, and by the end of the 2017 season the league looked like it was going to collapse. However, the commissioner, Joey Timgren, refused to see his league die. So with the support of his remaining league members (Adam Cook, Matt Connelly, and Tommy Carlson) he decided to create an improved league.</p>
+  <p>The new league would expand outside of Burnsville, MN and include several members from across the country. In 2018, recruiting of 8 additional members was completed and the dynasty Fantasy Factory league was born.</p>
+  <p>Each year, the managers compete to win the coveted Fantasy Factory league trophy and avoid the ever-humiliating Waffle House punishment.</p>
+  <p>The Fantasy Factory now enters year 7 in it's illustrious life. Although a few members have been replaced, the league remains stronger than ever due to the dedication and support from the remaining members.</p>
+  <p>While the ultimate prize is bragging rights and your name in the history books, the champion manager also walks away with $450 and the coveted trophy.</p>
 `;
 
 /*   STEP 3   */
