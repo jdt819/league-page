@@ -241,10 +241,10 @@ export const managers = [
         link: 11, // manager array number within this array, or null to link back to all managers page
         image: "/managers/erik.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "philosophy": "Your fantasy team's philosophy", // (optional)
-      "tradingScale": 10, // 1 - 10 (optional)
-      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "favoritePlayer": 9758, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "philosophy": "#fuckeric2024", // (optional)
+      "tradingScale": 5, // 1 - 10 (optional)
+      "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       "roster": 12,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
