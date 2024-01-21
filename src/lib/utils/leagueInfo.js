@@ -97,7 +97,7 @@ export const managers = [
       "rival": {
         name: "myself", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/question.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/tommy.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 6794, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "philosophy": "I shouldn't have done that", // (optional)
@@ -119,7 +119,7 @@ export const managers = [
         link: 7, // manager array number within this array, or null to link back to all managers page
         image: "/managers/jordan.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4984, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "philosophy": "Closed mouths don't get fed", // (optional)
       "tradingScale": 3, // 1 - 10 (optional)
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
